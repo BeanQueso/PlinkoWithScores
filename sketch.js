@@ -72,6 +72,7 @@ function draw() {
  text("200",580,550);
  text("200",660,550);
  text("200",740,550);
+ text("Turns: "+turn,200,30);
   Engine.update(engine);
  
   for (var k = 0; k < divisions.length; k++) {
