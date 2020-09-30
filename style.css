@@ -6,3 +6,6 @@ canvas {
   display: block;
   border : 8px solid maroon;
 } 
+.root{
+  filter = invert(100%0)
+}
